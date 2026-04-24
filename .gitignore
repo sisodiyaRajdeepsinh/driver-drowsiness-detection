@@ -29,3 +29,6 @@ report_images/
 # Temporary/event images
 drowsy_event.jpg
 image.jpg
+
+# Personal notes (not for repo)
+presentation_guide.md

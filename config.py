@@ -17,8 +17,8 @@ EMAIL_RECIPIENT = "recipient_number@carrier_gateway.com"
 # 2. Type /newbot to create a bot and get TOKEN
 # 3. Search for "userinfobot" to get your CHAT_ID
 USE_TELEGRAM = True
-TELEGRAM_BOT_TOKEN = "8455640585:AAG5ecYLQYz9V6Fl-KINPMdEUpGX8oR4U9U" 
-TELEGRAM_CHAT_ID = "1314944766"
+TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"  # Get from @BotFather on Telegram
+TELEGRAM_CHAT_ID = "YOUR_CHAT_ID_HERE"       # Get from @userinfobot on Telegram
 
 # Logic Config
 ALARM_DURATION_THRESHOLD = 5 # Seconds of continuous alarm before sending alert

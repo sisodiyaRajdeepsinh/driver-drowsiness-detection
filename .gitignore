@@ -1,0 +1,31 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Dataset (too large for GitHub)
+dataset/
+
+# Large model/data files (exceed GitHub 100MB limit)
+shape_predictor_68_face_landmarks.dat
+lbfmodel.yaml
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Report images (generated, can be recreated)
+report_images/
+
+# Temporary/event images
+drowsy_event.jpg
+image.jpg

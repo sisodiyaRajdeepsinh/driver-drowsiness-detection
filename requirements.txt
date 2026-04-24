@@ -1,0 +1,11 @@
+opencv-python
+torch
+torchvision
+numpy
+pillow
+pygame
+mediapipe
+scipy
+imutils
+dlib
+cmake

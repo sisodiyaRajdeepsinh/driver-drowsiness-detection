@@ -8,7 +8,7 @@
 # T-Mobile: number@tmomail.net
 # Sprint: number@messaging.sprintpcs.com
 USE_EMAIL = False
-EMAIL_SENDER = "sisodiyarajdeep204@gmail.com"
+EMAIL_SENDER = "your_email@gmail.com"
 EMAIL_PASSWORD = "your_app_password_here" # You need an App Password for Gmail
 EMAIL_RECIPIENT = "recipient_number@carrier_gateway.com" 
 
